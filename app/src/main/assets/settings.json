@@ -1,0 +1,12 @@
+{
+  "GDLibraryMode": "GDEnterpriseSimulation",
+  "GDApplicationID": "com.symphony.textviewclicklisteners",
+  "GDApplicationVersion": "1.0.0.0",
+  "GDConsoleLogger": [
+    "GDFilterNone",
+    "GDFilterErrors_",
+    "GDFilterWarnings_",
+    "GDFilterInfo_",
+    "GDFilterDetailed_"
+  ]
+}
